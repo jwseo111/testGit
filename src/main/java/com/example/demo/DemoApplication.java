@@ -13,7 +13,7 @@ public class DemoApplication {
 		return "Spring is here!"; 
 	}
 
-	public static void main(String[] args) { //test
+	public static void main(String[] args) { //test22
 		SpringApplication.run(DemoApplication.class, args);
 	}
 }
