@@ -13,7 +13,11 @@ public class DemoApplication {
 		return "Spring is here!";
 	}
 
+<<<<<<< HEAD
 	public static void main(String[] args) { //test3ewfwe
+=======
+	public static void main(String[] args) { //test3 
+>>>>>>> 1516953 (ete)
 		SpringApplication.run(DemoApplication.class, args);
 	}
 }
